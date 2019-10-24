@@ -1,0 +1,20 @@
+{
+  "name": "deployThis",
+  "version": "1.0.0",
+  "description": "FIT FLEX Description: an application based website for setting personal fitness, mental health, or any other types of goals and helping people keep themselves accountable.",
+  "main": "todo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackellis520/NewProject2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackellis520/NewProject2/issues"
+  },
+  "homepage": "https://github.com/jackellis520/NewProject2#readme"
+}
